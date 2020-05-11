@@ -22,10 +22,10 @@ to get the csv files message me or find them on your own
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](instagram.com) and ![Image]("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
