@@ -1,29 +1,28 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mo-root/R/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can take a look about [some articles] (https://www.pnas.org/content/117/13/7236) to understand what the hell is all this
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wnow, if you look at the code they aren't similar at all, this code is to filter the data, and some data analysis .
 
-### Markdown
+### R_project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+the simplest code and data filtering program u can ask for, really not complicated at all but kind of effecient...
 
 ```markdown
-Syntax highlighted code block
-
+to get the csv files message me or find them on your own
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- R-data_analysis
+- filtering_the_data
 
-1. Numbered
-2. List
+1. kings college
+2. 5-hours_project
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](instagram.com) and ![Image]("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
